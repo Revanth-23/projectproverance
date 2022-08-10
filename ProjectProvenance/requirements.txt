@@ -1,0 +1,17 @@
+
+#
+# Copyright (c) 2022 Resilinc, Inc., All Rights Reserved
+#   Any use, modification, or distribution is prohibited
+#   without prior written consent from Resilinc, Inc.
+#
+
+# Not Mentioning pandas as dependency while it has been used in POC, to refrain from it's use as much as possible.
+
+asyncpg==0.25.0
+graphviz==0.20
+prefect==1.2.1
+py4j==0.10.9.3
+pyspark==3.2.1
+quart==0.17.0
+redis==4.3.1
+celery==5.2.6
